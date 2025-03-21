@@ -1,4 +1,6 @@
 # input sentence
+sentence = input("Enter a full statement: ")
+print(sentence)
 
 # separate words in the sentence into words array
 
