@@ -1,8 +1,9 @@
 # input name
 name = input("Enter full name (in incorrect casing): ")
-print(name)
 
 # put name in lower case
+name = name.lower()
+print(name)
 
 # replace spaces with underscore
 
