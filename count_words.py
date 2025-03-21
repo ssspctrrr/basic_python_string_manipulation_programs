@@ -4,8 +4,6 @@ print(sentence)
 
 # separate words in the sentence into words array
 words = sentence.split(" ")
-print(words)
 
-# count the elements in the words array
-
-# print the count of elements
+# print the count of elements in the words array
+print(len(words))
